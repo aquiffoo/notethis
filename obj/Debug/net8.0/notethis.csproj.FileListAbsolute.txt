@@ -1,0 +1,14 @@
+E:\codes\c#\notethis\obj\Debug\net8.0\notethis.GeneratedMSBuildEditorConfig.editorconfig
+E:\codes\c#\notethis\obj\Debug\net8.0\notethis.AssemblyInfoInputs.cache
+E:\codes\c#\notethis\obj\Debug\net8.0\notethis.AssemblyInfo.cs
+E:\codes\c#\notethis\obj\Debug\net8.0\notethis.csproj.CoreCompileInputs.cache
+E:\codes\c#\notethis\bin\Debug\net8.0\notethis.exe
+E:\codes\c#\notethis\bin\Debug\net8.0\notethis.deps.json
+E:\codes\c#\notethis\bin\Debug\net8.0\notethis.runtimeconfig.json
+E:\codes\c#\notethis\bin\Debug\net8.0\notethis.dll
+E:\codes\c#\notethis\bin\Debug\net8.0\notethis.pdb
+E:\codes\c#\notethis\obj\Debug\net8.0\notethis.dll
+E:\codes\c#\notethis\obj\Debug\net8.0\refint\notethis.dll
+E:\codes\c#\notethis\obj\Debug\net8.0\notethis.pdb
+E:\codes\c#\notethis\obj\Debug\net8.0\notethis.genruntimeconfig.cache
+E:\codes\c#\notethis\obj\Debug\net8.0\ref\notethis.dll
